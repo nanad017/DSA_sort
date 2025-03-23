@@ -1,0 +1,10 @@
+Time for test 1: 1108.7 ms
+Time for test 2: 1125.85 ms
+Time for test 3: 1377.96 ms
+Time for test 4: 1409.43 ms
+Time for test 5: 1408.29 ms
+Time for test 6: 1372.96 ms
+Time for test 7: 1277.86 ms
+Time for test 8: 1302.01 ms
+Time for test 9: 1388.01 ms
+Time for test 10: 1328.42 ms
